@@ -64,7 +64,7 @@ abbr {
 	}
 
 header h1 { 
-	background: transparent url(https://phanbm.github.io/CommonSwap/commonSwapTitleTransparent.png) no-repeat top left;
+	background: transparent url(commonSwapTitleTransparent.png) no-repeat top left;
 	margin-top: 10px;
 	display: block;
 	width: 310px;
